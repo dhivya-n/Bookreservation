@@ -1,0 +1,4 @@
+admin user name:admin
+pass word :tcs
+
+full screen alt+enter
